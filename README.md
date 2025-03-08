@@ -1,1 +1,3 @@
-requirements
+pyTelegramBotAPI
+firebase-admin
+requests
