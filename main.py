@@ -6,7 +6,7 @@ from flask import Flask
 # ✅ Define Flask app
 app = Flask(__name__)
 
-BOT_TOKEN = "7990927398:AAHn1vCsyBQVFfaKT34cXI-IjqBvvHbQC-I"
+BOT_TOKEN = "7990927398"
 FIREBASE_URL = "https://safeguard-alert-default-rtdb.firebaseio.com"
 
 bot = telebot.TeleBot(BOT_TOKEN)
